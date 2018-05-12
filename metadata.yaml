@@ -1,0 +1,27 @@
+_repo: Practical-Instruction-for-DetectivesA-Complete-Course-in-Secret-Service-Study_46435
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46435-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Manning, Emmerson Wain
+    alias: Manning, Emmerson W.
+    gutenberg_agent_id: '43784'
+    url: http://www.gutenberg.org/2009/agents/43784
+description: ''
+gutenberg_issued: '2014-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46435'
+  lccn: '21019473'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Detectives'
+title: 'Practical Instruction for Detectives: A Complete Course in Secret Service
+  Study'
+url: http://www.gutenberg.org/ebooks/46435
